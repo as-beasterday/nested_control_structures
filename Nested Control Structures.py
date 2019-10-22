@@ -28,3 +28,8 @@ for i in range(num_people):
         sum += score
     average = float(sum) / test_per_person
     print("Average for " + name + ": " + str(round(average, 2)))
+
+'''
+programmer: me
+program: for loop + while loop
+'''
