@@ -1,7 +1,7 @@
-'''
+"""
 programmer: me
 program: double for loop
-'''
+"""
 
 for i in range(5):
     print(i)
