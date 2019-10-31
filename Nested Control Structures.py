@@ -31,8 +31,12 @@ for i in range(num_people):
 
 '''
 programmer: me
-program: categories
-
-program asks users of an interest then asks for two items related to interest
+program: for loop + while loop
 '''
 
+for i in range(4):
+    print("Outer for loop: " + str(i))
+    x = 6
+    while x >= 0:
+        print("Inner while loop: " + str(x))
+        x -= 1
