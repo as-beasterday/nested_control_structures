@@ -34,3 +34,10 @@ programmer: me
 program: for loop + while loop
 '''
 
+for i in range(4):
+    print("Outer for loop: " + str(i))
+    x = 6
+    while x >= 0:
+        print("Inner while loop: " + str(x))
+        x -= 1
+forloop+whileloop
