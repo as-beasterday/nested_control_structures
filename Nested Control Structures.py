@@ -1,7 +1,7 @@
-'''
+"""
 programmer: me
 program: double for loop
-'''
+"""
 
 for i in range(5):
     print(i)
@@ -40,3 +40,4 @@ for i in range(4):
     while x >= 0:
         print("Inner while loop: " + str(x))
         x -= 1
+forloop+whileloop
